@@ -1,6 +1,6 @@
 function divide(x, y) {
     // Check if the divisor (y) is not zero to avoid division by zero
-    if (y !== 0) {
+    if (y !== 0) { // comment for conflict
       return x / y;
     } else {
       console.error("Cannot divide by zero!");
@@ -8,4 +8,4 @@ function divide(x, y) {
     }
   }
 
-  console.log('-=-=--------=-===-');
+  console.log('-=-=--------=-===-'); console.log('ksgdfjksgdg');
