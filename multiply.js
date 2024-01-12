@@ -7,3 +7,5 @@ function divide(x, y) {
       return undefined; // or you can choose to handle it in a different way
     }
   }
+
+  console.log('-=-=--------=-===-');
